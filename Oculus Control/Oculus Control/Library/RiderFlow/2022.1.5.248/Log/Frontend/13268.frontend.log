@@ -1,0 +1,14 @@
+16:03:47.665 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+16:03:47.670 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+16:03:47.678 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+16:03:47.734 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 8585
+16:03:47.735 |V| Server                        | ServerSocket-UnityServer-Receiver:16 | ServerSocket-UnityServer : accepting, port: 8585
+16:03:56.652 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+16:03:56.655 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+16:03:56.662 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+16:03:56.692 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 8618
+16:03:56.693 |V| Server                        | ServerSocket-UnityServer-Receiver:26 | ServerSocket-UnityServer : accepting, port: 8618
+16:03:58.242 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+16:03:58.243 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in C:\Users\nbboguslavskii\AppData\Roaming\RiderFlow. Trying to extract use guid...
+16:03:58.248 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+16:03:58.248 |I| Launcher                      | :1                 | Subscribing for events
