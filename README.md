@@ -5,7 +5,7 @@
 **Semester:** Spring 2025 (Capstone - RBE 593)
 
 ## 1. Project Overview
-This repository contains the implementation of an intuitive multi-camera control system for the **Intelligent Robotic Nursing Assistant (IONA)**. The project addresses challenges such as lack of situational awareness, depth perception issues, and inefficient camera switching during teleoperation in complex healthcare environments.
+This repository contains the implementation of an intuitive multi-camera multimodal control system for the **Intelligent Robotic Nursing Assistant (IONA)**. The project addresses challenges such as lack of situational awareness, depth perception issues, and inefficient camera switching during teleoperation in complex healthcare environments.
 
 ### Project Goals
 * **Enhance Situational Awareness:** Integrate multiple fixed and dynamic camera views into a single Virtual Reality (VR) interface.
