@@ -1,6 +1,6 @@
 # VR Multi-Camera Control with Voice Commands and Autonomous View Selection
 
-**Author:** Filippo Marcantoni
+**Author:** Filippo Marcantoni  
 **Institution:** Worcester Polytechnic Institute (WPI)  
 **Semester:** Spring 2025 (Capstone - RBE 593)
 
